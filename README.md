@@ -1,8 +1,8 @@
 github repo link: https://github.com/rajveersingh55u/E-commerce-react.git
 
-netlifyLink:
+netlifyLink:rajveersinghecommerce.netlify.app
 
-youtubeLink:
+youtubeLink:  https://youtu.be/eQ9BPNe72JM?si=Zxn3MvOiTMaNHcca
 
 Step 1: Install Node.js
 Before you start the React installation process, you must have Node.js installed on your computer. If you do not know what Node.js is all about, you can read more here.
